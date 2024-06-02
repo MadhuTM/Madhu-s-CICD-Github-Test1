@@ -1,0 +1,4 @@
+Job1:
+    script :
+    - echo "This is the First Demo on CICD-Girhub"
+    
